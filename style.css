@@ -1,0 +1,565 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.maindiv {
+    padding-top: 1em;
+    width: 80%;
+}
+
+.nav1 {
+    background-color: white !important;
+}
+
+.navBtn {
+    margin-right: 1em !important;
+}
+
+.searchbar {
+    font-size: 18px;
+}
+
+.btn2 {
+    font-size: 20px;
+}
+
+.list-items {
+    padding-left: 15em;
+    font-size: 18px;
+}
+
+.links {
+    margin-left: 1em;
+    color: black;
+}
+
+.btn1 {
+    font-size: 18px;
+}
+
+.div2 {
+    background-color: rgb(211, 234, 236);
+    margin-top: 1em;
+}
+
+.div3 {
+    width: 80%;
+}
+
+.row1 {
+    margin-top: 10px;
+}
+
+.para1 {
+    font-weight: lighter;
+    font-size: 13px;
+    margin-top: 7px;
+}
+
+.row2 {
+    padding-top: 4em;
+}
+
+.para2 {
+    margin-top: 1.5em;
+    line-height: 2.5;
+    font-size: 18px;
+    letter-spacing: 1.5;
+    padding-bottom: 2em;
+}
+
+.btn3 {
+    font-size: 18px;
+}
+
+/* hr {
+    border: dotted #c2f6f6 13px;
+    border-bottom: none;
+    width: 3%;
+    margin: 50px auto;
+} */
+
+.maincd {
+    margin: 5em 0;
+}
+
+.card1 {
+    border: 2px solid rgb(90, 177, 199);
+    border-radius: 1em;
+    box-shadow: rgba(161, 204, 218, 0.3) 0px 30px 10px -35px, rgba(148, 217, 238, 0.5) 0px 50px 10px -45px;
+}
+
+.card2 {
+    border: 2px solid palevioletred;
+    border-radius: 1em;
+    box-shadow: rgba(202, 163, 197, 0.3) 0px 30px 10px -35px, rgba(236, 172, 222, 0.5) 0px 50px 10px -45px;
+}
+
+.imgg11 {
+    position:absolute;
+    left:40%;
+    top:-40px;
+    border-radius:50%;
+}
+
+.cardBodyText {
+    padding: 4em 2.2em 2em 2.2em;
+}
+
+.img2 {
+    position: absolute;
+    top: 40px;
+    right: 20px;
+}
+
+.para3 {
+    font-size: 18px;
+    padding-bottom: 1.7em;
+    line-height: 2;
+    letter-spacing: 0.3px;
+}
+
+.maindiv1 {
+    padding: 4.2em 0;
+    margin-bottom: 2em;
+}
+
+.headtag {
+    font-weight: normal;
+    font-size: 2.2rem;
+    letter-spacing: 3px;
+}
+
+.row3, .row4{
+    margin: 4em 2em 1em 10em;
+}
+
+.col1 {
+    padding-left: 5em;
+}
+
+.para4 {
+    padding-top: 2em;
+    padding-right: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.imgIcon {
+    /* border-radius: 4rem; */
+    background-color: powderblue;
+    box-shadow: 10px 10px 5px #ccc;
+      -moz-box-shadow: 10px 10px 5px #ccc;
+      -webkit-box-shadow: 10px 10px 5px #ccc;
+      -khtml-box-shadow: 10px 10px 5px #ccc;
+}
+
+.imgIcon1 {
+    background-color: rgb(243, 181, 202);
+    padding-top: 3em;
+    padding-left: 3em;
+}
+
+.maindiv2 {
+    padding-top: 3.5em;
+    width: 80%;
+}
+
+.maindiv3  {
+    padding-bottom: 3.5em;
+    width: 80%;
+}
+
+.btnDiv {
+    padding: 20px 0 0 20px;
+    font-size: 10px;
+}
+
+.card3 {
+    margin-bottom: 2em;
+}
+
+h5 {
+    font-size: 22px;
+    padding-bottom: 1em;
+}
+
+.cardText {
+    font-size: 17px;
+}
+
+.text1 {
+   line-height: 1.5; 
+   padding-left: 1.5em;
+   font-size: 35px;
+   padding-bottom: 4em;
+}
+
+.paraText {
+    padding-left: 2.2em;
+    font-size: 25px;
+}
+
+.paraText1 {
+    padding-top: 1em;
+    font-size: 17px;
+    padding-left: 2.8em;
+    line-height: 2;
+    font-weight: normal;
+    padding-bottom: 3em;
+}
+
+.mapDiv {
+    background-image: url('./images/map.png');
+    margin-bottom: 5em;
+}
+
+.cardDiv {
+    margin-left: 8em ;
+    margin-right: 0em;
+    width: 80%;
+    padding-bottom: 3em;
+}
+
+.cd1 {
+    width: 80%;
+}
+
+.cardimg {
+    padding: 1em 0 0 3em;
+}
+
+.cardIcon {
+    padding: 2em 0 0em 2em;
+}
+
+.cardIcon1 {
+    color: white;
+    font-size: 12px;
+    background-color: rgb(55, 102, 61);
+    padding: 3px;
+}
+
+.iconText {
+    font-size: 12px;
+    padding-top: 3px;
+    font-weight: bold;
+}
+
+.text11 {
+    font-size: 14px;
+    padding-left: 6em;
+}
+
+.textt12 {
+    padding-top: 1.5em;
+    font-size: 18px;
+    line-height: 2;
+    font-weight: normal;
+    padding-bottom: 3em;
+}
+
+.cardImg1 {
+    margin-bottom: 5em;
+}
+
+.cd3 {
+    width: 75%;
+}
+
+.cardBodyImg {
+    background-image: url('./images/pinkBox.jpg');
+}
+
+.headText1 {
+    font-size: 25px;
+    margin-top: 5em;
+    color: white;
+    font-weight: bold;
+    padding-left: 1.5em;
+}
+
+.paraText11 {
+    font-weight: lighter;
+    font-size: 18px;
+    padding-left: 2em;
+    line-height: 2.6;
+}
+ 
+.textPrice {
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 2em;
+    color: white;
+}
+
+.contactDiv {
+    background-color: rgb(242, 253, 252);
+}
+
+.contact {
+    padding-left: 12em;
+}
+
+.iconMap {
+    padding-top: 1.5em;
+}
+
+.ic1 {
+    border-radius: 3rem;
+    padding: 1em;
+    background-color: rgb(205, 248, 248);
+}
+
+.col11 {
+    padding-right: 0.8em;
+}
+
+.iconMapText {
+    font-size: 17px;
+}
+
+.pp1 {
+    font-size: 18px;
+    padding-left: 4.5em;
+}
+
+.infoDiv {
+    background-color: rgba(59, 148, 231, 0.993);
+    text-align: center;
+    color: white;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    margin-bottom: 4em;
+}
+
+.infoText {
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.infoBtn {
+    font-size: 18px;
+    background-color: white;
+    color: teal;
+}
+
+.row5 {
+    padding-left: 2em;
+}
+
+.ic2 {
+    margin: 3px;
+    font-size: 12px;
+    border-radius: 3rem;
+    padding: 0.7em;
+    background-color: teal;
+}
+
+.contactInfo {
+    padding-top: 2.5em;
+    padding-right: 1.5em;
+    font-size: 17px;
+}
+
+.b1 {
+    font-size: 17px;
+}
+
+.pa1 {
+    padding-bottom: 0.2em;
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+.footerCls {
+    margin: 0 19em;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-bottom: 7em;
+    text-align: center;
+}
+
+@media screen and (max-width:850px) {
+    .list-items {
+        padding-left: 0.1em !important;
+    }
+
+    .cardBodyText {
+        padding: 4em 1em 2em 1em !important;
+        font-size: 14px;
+    }
+
+    .imgg11 {
+        left:30% !important;
+        padding: 2px !important;
+    }
+
+    .headtag {
+        font-size: 1em !important;
+    }
+
+    .row3 {
+        margin: 2em 0.5em 1em 3em !important;
+    }
+
+    .img3 {
+        margin-top: 6em !important;
+    }
+
+    .cd1 {
+        width: 100% !important;
+    }
+
+    .text11 {
+        font-size: 12px !important;
+        padding-left: 0.2em !important;
+    }
+
+    .row4 {
+        margin: 0.1em;
+    }
+
+    .cardDiv {
+        margin-left: 5em !important;    
+    }
+
+    .cd3 {
+        width: 100% !important;
+    }
+
+    .headText1 {
+        font-size: 14px !important;
+        margin-top: 0.5em !important;
+        padding-left: 0.1em !important;
+    }
+
+    .paraText11 {
+        font-size: 12px !important;
+        padding-left: 0.3em !important;
+        line-height: 1.5 !important;
+    }
+
+    .textPrice {
+        font-size: 14px !important;
+        padding-left: 0.1em;
+    }
+
+    .contact {
+        padding-left: 4em;
+    }
+
+    .headtt1 {
+        font-size: 30px;
+    }
+
+    .hh1 {
+        font-size: 20px !important;
+    }
+
+    .pa1 {
+        font-size: 15px;
+    }
+
+    .b1 {
+        font-size: 12px;
+    }
+
+    .contactInfo {
+        font-size: 16px;
+    }
+    
+}
+
+@media (min-width:851px) and (max-width:1050px) {
+    .cardBodyText {
+        padding: 4em 1em 1em 1em;
+        font-size: 16px;
+    }
+
+    .imgg11 {
+        left:27%;
+    }
+
+    .img3 {
+        margin-top: 8em;
+    }
+
+    .row3 {
+        margin: 2em 0.5em 1em 3em !important;
+    }
+
+    .headtag {
+        font-size: 1em !important;
+    }
+
+    .cardDiv {
+        margin-left: 5em !important;    
+    }
+
+    .row4 {
+        margin: 0.3em;
+    }
+
+    .cd1 {
+        width: 100% !important;
+    }
+
+    .text11 {
+        font-size: 12px !important;
+        padding-left: 0.2em !important;
+    }
+
+    .blockquote-footer {
+        font-size: 12px !important;
+        padding-left: 1em !important;
+    }
+
+    .cd3 {
+        width: 100% !important;
+    }
+
+    .headText1 {
+        font-size: 14px !important;
+        margin-top: 0.5em !important;
+        padding-left: 0.1em !important;
+    }
+
+    .paraText11 {
+        font-size: 12px !important;
+        padding-left: 0.3em !important;
+        line-height: 1.5 !important;
+    }
+
+    .textPrice {
+        font-size: 14px !important;
+        padding-left: 0.1em;
+    }
+
+    .contact {
+        padding-left: 6em;
+    }
+
+    .headtt1 {
+        font-size: 30px;
+    }
+
+    .hh1 {
+        font-size: 20px !important;
+    }
+
+    .pa1 {
+        font-size: 15px;
+    }
+
+    .b1 {
+        font-size: 12px;
+    }
+
+    .contactInfo {
+        font-size: 16px;
+    }
+  
+}
